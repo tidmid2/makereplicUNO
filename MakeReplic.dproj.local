@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\FromMe\GIT\UNO\CreateReplic\MakeReplic.dproj=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\GroupedItems2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,C:\FromMe\GIT\UNO\CreateReplic\Unit2.pas=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,C:\FromMe\GIT\UNO\CreateReplic\Unit2.dfm=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Users\acer\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
